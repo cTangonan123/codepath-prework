@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-![Imgur](https://i.imgur.com/3vg1AKU.gifv)
+<a href="https://imgur.com/3vg1AKU"><img src="https://i.imgur.com/3vg1AKU.gif" title="source: imgur.com" /></a>
 
 
 ## App Brainstorming (Step 4)

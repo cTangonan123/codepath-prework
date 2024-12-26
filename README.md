@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-![](https://imgur.com/gallery/codepath-org-prework-ios101-hqi39e7.gif)
+![something](https://imgur.com/gallery/codepath-org-prework-ios101-hqi39e7)
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 

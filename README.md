@@ -31,6 +31,10 @@ The following **required** functionality is completed:
     - set timers for reminder
     - generating subtasks
     - inclusion of metadata
+    
+### App idea
+I've been interested in the social media platforms and their ability to implement infinite scrolling in their applications. For one it generates a positive feedback loop for the user, I'm also intrigued on how it could potentially offset data costs for their servers.
+I'm also interested in the creation of playlists as its one means of personalizing a user's account. With the ability to share and post, adds a social element to it, much like Youtube for videos and Spotify for Music.
 
 ## Notes
 

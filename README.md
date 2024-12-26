@@ -14,11 +14,8 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-![something](https://imgur.com/gallery/codepath-org-prework-ios101-hqi39e7)
+![Imgur](https://i.imgur.com/3vg1AKU.gifv)
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 ### List of Favorite Applications and their Features
